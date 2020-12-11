@@ -34,7 +34,7 @@
 #### GitHub Stats
 <details>
 <summary>
-<a> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="mysql" width="15" height="15"/> </a=> 
+<a> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="mysql" width="15" height="15"/> </a> 
 </summary><br>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Stats" />
