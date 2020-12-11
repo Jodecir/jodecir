@@ -3,13 +3,6 @@
 
 - 🌱 I’m currently learning **ReactJS & jQuery**
 
-- <details>
-<summary>📊 GitHub Stats</summary>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats" /></p>
-</details>
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -31,7 +24,11 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <p>
 
-#### Connect with me:
+### GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Stats" /></p>
 
+#### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jodecir/)](https://www.linkedin.com/in/jodecir/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jodecirneto@gmail.com)](mailto:jodecirneto@gmail.com)
