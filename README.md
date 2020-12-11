@@ -51,7 +51,7 @@
 <details>
   <summary>
   <a> <img src="https://www.flaticon.com/svg/static/icons/svg/785/785116.svg" alt="Streak" width="15" height="15"/> </a> Streak
-  </summary>
+  </summary><br>
   <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats" />
   </p>
