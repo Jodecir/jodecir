@@ -31,7 +31,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jodecir/)](https://www.linkedin.com/in/jodecir/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jodecirneto@gmail.com)](mailto:jodecirneto@gmail.com)
 
-#### GitHub Stats
+### GitHub Stats:
 <details>
   <summary>
   <a> <img src="https://www.flaticon.com/svg/static/icons/svg/1191/1191637.svg" alt="Pie-chart" width="15" height="15"/> </a> 
