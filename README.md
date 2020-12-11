@@ -35,24 +35,24 @@
 <details>
   <summary>
   <a> <img src="https://www.flaticon.com/svg/static/icons/svg/1191/1191637.svg" alt="Most Used Languages" width="15" height="15"/> </a> Most Used Languages
-  </summary><br>
+  </summary>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Stats"/>
   </p>
 </details>
 <details>
   <summary>
   <a> <img src="https://www.flaticon.com/svg/static/icons/svg/1828/1828884.svg" alt="Commits" width="15" height="15"/> </a> Commits
-  </summary><br>
+  </summary>
   <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=contribs,issues&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=contribs,issues&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
   </p>
 </details>
 <details>
   <summary>
   <a> <img src="https://www.flaticon.com/svg/static/icons/svg/785/785116.svg" alt="Streak" width="15" height="15"/> </a> Streak
-  </summary><br>
+  </summary>
   <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats"/>
   </p>
 </details>
