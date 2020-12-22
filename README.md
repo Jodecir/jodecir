@@ -45,7 +45,7 @@
   <a> <img src="https://www.flaticon.com/svg/static/icons/svg/1828/1828884.svg" alt="Commits" width="15" height="15"/> </a> Commits
   </summary>
   <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=contribs,issues&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=issues&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
   </p>
 </details>
 <details>
