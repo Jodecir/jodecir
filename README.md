@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Jodecir/Jodecir/master/gifs/wave.gif" width="30px">, I'm Jodecir</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Jodecir/jodecir/master/gifs/wave.gif" width="30px">, I'm Jodecir</h1>
 <h3 align="center">Web Developer - React | JavaScript | CSS3 | HTML5</h3>
 
 <h3 align="left">About:</h3>
