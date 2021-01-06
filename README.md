@@ -24,8 +24,8 @@
 ![Editor](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
 ![Version Control](https://img.shields.io/badge/Version_Control-GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=ffffff)
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
-![GIMP](https://img.shields.io/badge/-GIMP-ffffff?style=flat-square&logo=gimp&logoColor=181717)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
+![GIMP](https://img.shields.io/badge/-GIMP-ffffff?style=flat&logo=gimp&logoColor=181717)
 ![Photoshop](https://img.shields.io/badge/Photoshop-ffffff?style=flat&logo=adobe-photoshop&logoColor=000000&color=8BC3FC)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
 ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=68A063)
