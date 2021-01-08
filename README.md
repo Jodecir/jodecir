@@ -10,7 +10,7 @@
 
 [![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)]()
 [![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)]()
-[![Angular](https://img.shields.io/badge/-AngularJS-%23dd1b16?style=flat-square&logo=angular&logoColor=ffffff)]()
+[![Angular](https://img.shields.io/badge/-Angular-%23dd1b16?style=flat-square&logo=angular&logoColor=ffffff)]()
 [![TS](https://img.shields.io/badge/-TypeScript-%23007acc?style=flat-square&logo=typescript&logoColor=ffffff)]()
 [![PHP](https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=ffffff)]()
 [![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://jodecir.github.io/tic-tac-toe-dio-master/)](https://jodecir.github.io/tic-tac-toe-dio-master/)
