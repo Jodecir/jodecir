@@ -3,9 +3,9 @@
 
 <h3 align="left">About:</h3>
 
-- 📖 I’m currently learning **ReactJS & jQuery**
+- 📖 I’m currently learning **ReactJS**
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages, Libraries & Frameworks:</h3>
 <p align="left"> 
 
 [![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)]()
@@ -13,6 +13,7 @@
 [![Angular](https://img.shields.io/badge/-Angular-%23dd1b16?style=flat-square&logo=angular&logoColor=ffffff)]()
 [![TS](https://img.shields.io/badge/-TypeScript-%23007acc?style=flat-square&logo=typescript&logoColor=ffffff)]()
 [![PHP](https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=ffffff)]()
+[![Bootstrap](https://img.shields.io/badge/-Boostrap_4-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)]()
 [![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://jodecir.github.io/tic-tac-toe-dio-master/)](https://jodecir.github.io/tic-tac-toe-dio-master/)
 [![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://jodecir.github.io/simon-dio-master/)](https://jodecir.github.io/simon-dio-master/)
 [![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://jodecir.github.io/netflix-dio-master/)](https://jodecir.github.io/netflix-dio-master/)
