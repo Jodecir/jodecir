@@ -9,9 +9,9 @@
 <p align="left"> 
 
 [![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)]()
-[![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)]()
+[![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
 [![Angular](https://img.shields.io/badge/-Angular-%23dd1b16?style=flat-square&logo=angular&logoColor=ffffff)]()
-[![TS](https://img.shields.io/badge/-TypeScript-%23007acc?style=flat-square&logo=typescript&logoColor=ffffff)]()
+[![TS](https://img.shields.io/badge/-TypeScript-%23007acc?style=flat-square&logo=typescript&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
 [![PHP](https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=ffffff)]()
 [![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff&link=https://github.com/Jodecir/resgate-dio-master)](https://github.com/Jodecir/resgate-dio-master)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap_4-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)]()
