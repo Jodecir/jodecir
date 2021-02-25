@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Jodecir/jodecir/master/gifs/wave.gif" width="30px">, I'm Jodecir</h1>
-<h3 align="center">Web Developer - Angular | TS | JS | CSS | HTML</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Jodecir/jodecir/master/gifs/wave.gif" alt="wave" width="30px" height="30px">, I'm Web Developer</h1>
 
 <h3 align="left">About:</h3>
 
@@ -40,7 +39,7 @@
 ### GitHub Stats:
 <details>
   <summary>
-  <a> <img src="https://www.flaticon.com/svg/static/icons/svg/1191/1191637.svg" alt="Most Used Languages" width="15" height="15"/> </a> Most Used Languages
+    <a>📊</a> Most Used Languages
   </summary>
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Stats"/>
@@ -48,7 +47,7 @@
 </details>
 <details>
   <summary>
-  <a> <img src="https://www.flaticon.com/svg/static/icons/svg/1828/1828884.svg" alt="Commits" width="15" height="15"/> </a> Commits
+    <a>⭐</a> Commits
   </summary>
   <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=issues&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
@@ -56,7 +55,7 @@
 </details>
 <details>
   <summary>
-  <a> <img src="https://www.flaticon.com/svg/static/icons/svg/785/785116.svg" alt="Streak" width="15" height="15"/> </a> Streak
+    <a>🔥</a> Streak
   </summary>
   <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats"/>
