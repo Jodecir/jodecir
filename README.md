@@ -8,7 +8,7 @@
 <h3 align="left">Languages, Libraries & Frameworks:</h3>
 <p align="left"> 
 
-[![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)]()
+[![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)](https://github.com/Jodecir/covid19-dio)
 [![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)]()
 [![Angular](https://img.shields.io/badge/-Angular-%23dd1b16?style=flat-square&logo=angular&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
 [![TS](https://img.shields.io/badge/-TypeScript-%23007acc?style=flat-square&logo=typescript&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
