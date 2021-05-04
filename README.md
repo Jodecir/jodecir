@@ -2,7 +2,7 @@
 
 <h3 align="left">About:</h3>
 
-- 📖 I’m currently learning **ReactJS** 
+- 📖 I’m currently learning **ReactJS** & **Angular**
 - 🤫 I’m more productive in **quiet environments.**
 
 <h3 align="left">Languages, Libraries & Frameworks:</h3>
@@ -14,9 +14,9 @@
 [![TS](https://img.shields.io/badge/-TypeScript-%23007acc?style=flat-square&logo=typescript&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
 [![PHP](https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=ffffff)](https://github.com/Jodecir/food-routine_web)
 [![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff&link=https://github.com/Jodecir/resgate-dio)](https://github.com/Jodecir/resgate-dio)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap_4-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)]()
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap_4-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://github.com/Jodecir/coin-market-cap-dio)
 [![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://jodecir.github.io/tic-tac-toe-dio/)](https://jodecir.github.io/tic-tac-toe-dio/)
-[![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://jodecir.github.io/simon-dio/)](https://jodecir.github.io/simon-dio/)
+[![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://jodecir.github.io/simon-dio/)](https://jodecir.github.io/portfolio/)
 [![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://jodecir.github.io/netflix-dio/)](https://jodecir.github.io/netflix-dio/)
 
 <h3 align="left">Tools:</h3>
@@ -43,7 +43,7 @@
     <a>📊</a> Most Used Languages
   </summary>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Stats"/>
   </p>
 </details>
 <details>
@@ -51,7 +51,7 @@
     <a>⭐</a> Commits
   </summary>
   <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=issues&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=issues&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
   </p>
 </details>
 <details>
@@ -59,6 +59,6 @@
     <a>🔥</a> Streak
   </summary>
   <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats"/>
   </p>
 </details>
