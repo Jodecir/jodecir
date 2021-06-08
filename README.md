@@ -3,6 +3,7 @@
 <h3 align="left">About:</h3>
 
 - 📖 I’m currently learning **Python**
+- 💻 I’m **INTP** Personality Type
 - 🤫 I’m more productive in **quiet environments.**
 
 <h3 align="left">Languages, Libraries & Frameworks:</h3>
