@@ -9,6 +9,7 @@
 <h3 align="left">Languages, Libraries & Frameworks:</h3>
 <p align="left"> 
 
+[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=306998")](https://github.com/Jodecir/exercicios_python)
 [![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)](https://github.com/Jodecir/covid19-dio)
 [![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)]()
 [![Angular](https://img.shields.io/badge/-Angular-%23dd1b16?style=flat-square&logo=angular&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
@@ -19,7 +20,6 @@
 [![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://jodecir.github.io/tic-tac-toe-dio/)](https://jodecir.github.io/tic-tac-toe-dio/)
 [![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://jodecir.github.io/simon-dio/)](https://jodecir.github.io/portfolio/)
 [![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://jodecir.github.io/netflix-dio/)](https://jodecir.github.io/netflix-dio/)
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=306998")]()
 
 <h3 align="left">Tools:</h3>
 <p align="left">
@@ -31,9 +31,9 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
 ![GIMP](https://img.shields.io/badge/-GIMP-ffffff?style=flat&logo=gimp&logoColor=181717)
 ![Photoshop](https://img.shields.io/badge/Photoshop-ffffff?style=flat&logo=adobe-photoshop&logoColor=000000&color=8BC3FC)
+![Firebase](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=F5820D)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
 ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=68A063)
-![Firebase](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=F5820D)
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jodecir/)](https://www.linkedin.com/in/jodecir/) 
