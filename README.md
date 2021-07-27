@@ -2,7 +2,7 @@
 
 <h3 align="left">About:</h3>
 
-- 📖 I’m currently learning **Python**
+- 📖 I’m currently learning **Python** & **UiPath**
 - 💻 I’m **INTP** Personality Type
 - 🤫 I’m more productive in **quiet environments.**
 
@@ -27,7 +27,7 @@
 ![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=00a4ef)
 ![Editor](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
 ![Version Control](https://img.shields.io/badge/Version_Control-GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=ffffff)
-
+![UiPath](https://img.shields.io/badge/UiPath-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
 ![GIMP](https://img.shields.io/badge/-GIMP-ffffff?style=flat&logo=gimp&logoColor=181717)
 ![Photoshop](https://img.shields.io/badge/Photoshop-ffffff?style=flat&logo=adobe-photoshop&logoColor=000000&color=8BC3FC)
