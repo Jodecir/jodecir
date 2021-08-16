@@ -2,7 +2,7 @@
 
 <h3 align="left">About:</h3>
 
-- 📖 I’m currently learning **Python** & **UiPath**
+- 📖 I’m currently learning **RPA**
 - 💻 I’m **INTP** Personality Type
 - 🤫 I’m more productive in **quiet environments.**
 
@@ -20,6 +20,7 @@
 [![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://jodecir.github.io/tic-tac-toe-dio/)](https://jodecir.github.io/tic-tac-toe-dio/)
 [![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://jodecir.github.io/simon-dio/)](https://jodecir.github.io/portfolio/)
 [![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://jodecir.github.io/netflix-dio/)](https://jodecir.github.io/netflix-dio/)
+[![Visual Basic](https://img.shields.io/badge/VB-%2314354C.svg?style=flat-square&logo=.net&logoColor=white&link=https://github.com/Jodecir/exercicios_uipath)](https://github.com/Jodecir/exercicios_uipath)
 
 <h3 align="left">Tools:</h3>
 <p align="left">
