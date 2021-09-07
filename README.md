@@ -2,13 +2,14 @@
 
 <h3 align="left">About:</h3>
 
-- 📖 I’m currently learning **RPA**
+- 📖 I’m currently learning **RPA** & **C#**
 - 💻 I’m **INTP** Personality Type
 - 🤫 I’m more productive in **quiet environments.**
 
 <h3 align="left">Languages, Libraries & Frameworks:</h3>
 <p align="left"> 
 
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/Jodecir/exercicios_csharp)
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=306998")](https://github.com/Jodecir/exercicios_python)
 [![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)](https://github.com/Jodecir/covid19-dio)
 [![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)]()
