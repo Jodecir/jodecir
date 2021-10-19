@@ -11,17 +11,17 @@
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/Jodecir/exercicios_csharp)
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=306998")](https://github.com/Jodecir/exercicios_python)
-[![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)](https://github.com/Jodecir/covid19-dio)
+[![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)](covid19-dio-api.netlify.app/)
 [![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)]()
 [![Angular](https://img.shields.io/badge/-Angular-%23dd1b16?style=flat-square&logo=angular&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
 [![TS](https://img.shields.io/badge/-TypeScript-%23007acc?style=flat-square&logo=typescript&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
 [![PHP](https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=ffffff)](https://github.com/Jodecir/food-routine_web)
-[![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff&link=https://github.com/Jodecir/resgate-dio)](https://github.com/Jodecir/resgate-dio)
+[![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff)](https://github.com/Jodecir/resgate-dio)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap_4-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://github.com/Jodecir/coin-market-cap-dio)
-[![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://jodecir.github.io/tic-tac-toe-dio/)](https://jodecir.github.io/tic-tac-toe-dio/)
-[![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://jodecir.github.io/simon-dio/)](https://jodecir.github.io/portfolio/)
-[![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://jodecir.github.io/biblioteca-elfica/)](https://jodecir.github.io/biblioteca-elfica/)
-[![Visual Basic](https://img.shields.io/badge/VB-%2314354C.svg?style=flat-square&logo=.net&logoColor=white&link=https://github.com/Jodecir/exercicios_uipath)](https://github.com/Jodecir/exercicios_uipath)
+[![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://jodecir.github.io/tic-tac-toe-dio/)
+[![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://jodecir.github.io/portfolio/)
+[![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://jodecir.github.io/biblioteca-elfica/)
+[![Visual Basic](https://img.shields.io/badge/VB-%2314354C.svg?style=flat-square&logo=.net&logoColor=white)](https://github.com/Jodecir/exercicios_uipath)
 
 <h3 align="left">Tools:</h3>
 <p align="left">
@@ -38,8 +38,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=68A063)
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jodecir/)](https://www.linkedin.com/in/jodecir/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jodecirneto@gmail.com)](mailto:jodecirneto@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jodecir/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jodecirneto@gmail.com)
 
 ### GitHub Stats:
 <details>
