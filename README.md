@@ -20,7 +20,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap_4-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://github.com/Jodecir/coin-market-cap-dio)
 [![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://jodecir.github.io/tic-tac-toe-dio/)](https://jodecir.github.io/tic-tac-toe-dio/)
 [![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://jodecir.github.io/simon-dio/)](https://jodecir.github.io/portfolio/)
-[![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://jodecir.github.io/netflix-dio/)](https://jodecir.github.io/netflix-dio/)
+[![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://jodecir.github.io/biblioteca-elfica/)](https://jodecir.github.io/biblioteca-elfica/)
 [![Visual Basic](https://img.shields.io/badge/VB-%2314354C.svg?style=flat-square&logo=.net&logoColor=white&link=https://github.com/Jodecir/exercicios_uipath)](https://github.com/Jodecir/exercicios_uipath)
 
 <h3 align="left">Tools:</h3>
