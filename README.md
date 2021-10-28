@@ -5,6 +5,7 @@
 - 📖 I’m currently learning **RPA** & **C#**
 - 💻 I’m **INTP** Personality Type
 - 🤫 I’m more productive in **quiet environments.**
+- 😊 My english level is **B1**(Intermediate) in CEFR
 
 <h3 align="left">Languages, Libraries & Frameworks:</h3>
 <p align="left"> 
