@@ -10,7 +10,7 @@
 <h3 align="left">Languages, Libraries & Frameworks:</h3>
 <p align="left"> 
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/Jodecir/exercicios_csharp)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/Jodecir/exercicios_csharp)
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=306998")](https://github.com/Jodecir/exercicios_python)
 [![React](https://img.shields.io/badge/-ReactJS-%2361DBFB?style=flat-square&logo=react&logoColor=000000)](covid19-dio-api.netlify.app/)
 [![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)]()
