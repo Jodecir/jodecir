@@ -16,6 +16,7 @@
 [![Ionic](https://img.shields.io/badge/-Ionic-%23498AFF?style=flat-square&logo=ionic&logoColor=ffffff)]()
 [![Angular](https://img.shields.io/badge/-Angular-%23dd1b16?style=flat-square&logo=angular&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
 [![TS](https://img.shields.io/badge/-TypeScript-%23007acc?style=flat-square&logo=typescript&logoColor=ffffff)](https://github.com/Jodecir/crud-angular-filmes-dio)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](https://github.com/Jodecir/exercicios_java)
 [![PHP](https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=ffffff)](https://github.com/Jodecir/food-routine_web)
 [![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff)](https://github.com/Jodecir/resgate-dio)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap_4-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://github.com/Jodecir/coin-market-cap-dio)
