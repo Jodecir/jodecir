@@ -65,6 +65,6 @@
     <a>🔥</a> Streak
   </summary>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=dark" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodecir&theme=chartreuse-dark" alt="GitHub Stats"/>
   </p>
 </details>
