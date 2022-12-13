@@ -44,7 +44,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jodecirneto@gmail.com)
 
 ### GitHub Stats:
-<details>
+<!-- <details>
   <summary>
     <a>📊</a> Most Used Languages
   </summary>
@@ -59,7 +59,7 @@
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=issues&show_icons=true&theme=chartreuse-dark&locale=en" alt="GitHub Stats"/>
   </p>
-</details>
+</details> -->
 <details>
   <summary>
     <a>🔥</a> Streak
