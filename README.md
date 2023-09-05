@@ -44,12 +44,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jodecirneto@gmail.com)
 
 ### GitHub Stats:
-<!-- <details>
+<details>
   <summary>
     <a>📊</a> Most Used Languages
   </summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="Most Used Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodecir&show_icons=true&langs_count=12&theme=chartreuse-dark&locale=en&layout=compact" alt="Most Used Stats"/>
   </p>
 </details>
 <details>
@@ -57,9 +57,9 @@
     <a>⭐</a> Commits
   </summary>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=issues&show_icons=true&theme=chartreuse-dark&locale=en" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodecir&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en" alt="GitHub Stats"/>
   </p>
-</details> -->
+</details>
 <details>
   <summary>
     <a>🔥</a> Streak
