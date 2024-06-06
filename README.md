@@ -19,7 +19,7 @@
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](https://github.com/Jodecir/exercicios_java)
 [![PHP](https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=ffffff)](https://github.com/Jodecir/food-routine_web)
 [![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff)](https://github.com/Jodecir/resgate-dio)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://gudaodoce.netlify.app/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23553C7B?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://github.com/Jodecir/restaurante_bootstrap)
 [![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://jodecir.github.io/tic-tac-toe-dio/)
 [![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://jodecir.github.io/portfolio/)
 [![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://jodecir.github.io/biblioteca-elfica/)
