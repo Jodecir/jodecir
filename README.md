@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Jodecir/jodecir/master/gifs/wave.gif" alt="wave" width="30px" height="30px">, I'm Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Web Developer</h1>
 
 <h3 align="left">About:</h3>
 
